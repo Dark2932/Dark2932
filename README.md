@@ -1,5 +1,7 @@
 ### Hi , I'm Dark2932 👋
 
+A Chinese boy, 14 years old.
+
 I'm a Minecraft modpacker.
 
 Just call me "dark", sounds friendly, right?

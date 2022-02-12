@@ -6,7 +6,7 @@ Minecraft modpack/mod/plugin maker.
 
 Learning Java and ZenScript hardly.
 
-Also learning JavaScript/HTML/Shell and so on in spare time.
+Also learning HTML/Shell and so on in spare time.
 
 Just call me "dark", sounds friendly, right?
 

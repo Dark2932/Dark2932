@@ -2,12 +2,5 @@
 
 Chinese boy, 14 years old.
 
-Minecraft modpack/mod/plugin maker.
-
-Learning Java and ZenScript hardly.
-
-Also learning Linux/Shell in spare time.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark2932)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark2932&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+| <img alt="🦑" width="400px" src="https://github.com/Dark2932/Dark2932/raw/master/metrics.svg">|<img alt="🦑" width="400px" src="https://raw.githubusercontent.com/Dark2932/Dark2932/master/metrics.additional.svg">|
+| ------------- |  ------------- | 

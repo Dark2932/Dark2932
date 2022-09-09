@@ -2,4 +2,8 @@
 
 Chinese boy, 14 years old.
 
-![Metrics](/github-metrics.svg)
+Minecraft player, modpack/server/mod/plugin maker.
+
+You can just call me 'dark'.
+
+Learing Java/Linux/Python.

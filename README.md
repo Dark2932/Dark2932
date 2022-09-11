@@ -1,12 +1,20 @@
-### Hi , I'm Dark2932 👋
+# Hi , I'm Dark2932 👋
 
-Chinese boy, 15 years old. 👦
+### Profile:
 
-Minecraft player, modpack/server/mod/plugin maker. 🎈
+- Chinese boy, 15 years old. 👦
 
-You can just call me 'dark'. 😃
+- Student of [Henan Zhumadian Senior High School](http://www.zmdgjzx.com/) 🪁
 
-Learing Java/Linux/Python and so on. 💬
+- Minecraft player, tweaker and modder. 🎈
+
+- You can just call me 'dark'. 😃
+
+### Occupation:
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80" style="max-width: 100%;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80" style="max-width: 100%;"><img src="https://i.blamejared.com/crafttweaker.svg" alt="crt" width="80" height="80" style="max-width: 100%;">
+
+### Stats:
 
 ![Dark2932's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark2932&show_icons=true&theme=highcontrast)
 

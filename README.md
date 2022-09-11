@@ -4,11 +4,11 @@
 
 - Chinese boy, 15 years old. 👦
 
+- You can just call me 'dark'. 😃
+
 - Student of [Henan Zhumadian Senior High School](http://www.zmdgjzx.com/) 🪁
 
 - Minecraft player, tweaker and modder. 🎈
-
-- You can just call me 'dark'. 😃
 
 ### Occupation:
 

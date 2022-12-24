@@ -12,7 +12,7 @@
 
 ### Occupation:
 
-<a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80" style="max-width: 100%;"> </a> <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80" style="max-width: 100%;"> </a> <a href="https://www.curseforge.com/minecraft/mc-mods/crafttweaker"> <img src="https://i.blamejared.com/crafttweaker.svg" alt="crt" width="80" height="80" style="max-width: 100%;"> </a>
+<a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80" style="max-width: 100%;"> </a> <a href="https://www.curseforge.com/minecraft/mc-mods/crafttweaker"> <img src="https://i.blamejared.com/crafttweaker.svg" alt="crt" width="80" height="80" style="max-width: 100%;"> </a>
 
 ### Stats:
 

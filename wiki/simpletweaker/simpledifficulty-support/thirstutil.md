@@ -13,7 +13,7 @@ You can call these by `ThirstUtil.method(parameters)`.
 * player -> _an IPlayer instance_
 * thirst _-> thirst level_
 * saturation _-> thirst saturation_
-* <mark style="color:yellow;">hasSound</mark> _-> whether to play the sound of drinking (optional, default is false)_
+* <mark style="color:yellow;">hasSound</mark> _-> whether to play the sound of drinking (optional, default is <mark style="color:red;">false</mark>)_
 
 #### <mark style="color:green;">void</mark> takeDrinkWithThirsty(_<mark style="color:orange;">IPlayer player</mark>, <mark style="color:orange;">int thirst</mark>, <mark style="color:orange;">float saturation</mark>, <mark style="color:orange;">float thirstyChance</mark>, <mark style="color:orange;">int thirstyDuration</mark>, <mark style="color:yellow;">@Optional</mark>_ _<mark style="color:orange;">bool hasSound</mark>_)
 

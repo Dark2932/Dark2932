@@ -1,5 +1,7 @@
 # ThirstUtil
 
+It has been packaged in `mods.simpletweaker.util.ThirstUtil`.
+
 ### Static Methods
 
 You can call these by `ThirstUtil.method(parameters)`.

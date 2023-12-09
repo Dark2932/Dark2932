@@ -8,3 +8,6 @@
     * [ThirstUtil](simpletweaker/simpledifficulty-support/thirstutil.md)
     * [TemperatureUtil](simpletweaker/simpledifficulty-support/temperatureutil.md)
     * [PlayerTakeDrinkEvent](simpletweaker/simpledifficulty-support/playertakedrinkevent.md)
+  * [Lightweight Blood Mechanics Support](simpletweaker/lightweight-blood-mechanics-support/README.md)
+    * [IPlayer Expansion](simpletweaker/lightweight-blood-mechanics-support/iplayer-expansion.md)
+  * [Tweaks](simpletweaker/tweaks.md)

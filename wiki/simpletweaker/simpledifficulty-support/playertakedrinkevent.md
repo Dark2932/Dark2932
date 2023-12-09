@@ -2,7 +2,7 @@
 
 It has been packaged in `mods.simpletweaker.event.PlayerTakeDrinkEvent`.
 
-PlayerTakeDrinkEvent implements the [IPlayerEvent](https://docs.blamejared.com/1.12/en/Vanilla/Events/Events/IPlayerEvent).
+PlayerTakeDrinkEvent implements [IPlayerEvent](https://docs.blamejared.com/1.12/en/Vanilla/Events/Events/IPlayerEvent).
 
 **The PlayerTakeDrinkEvent is fired whenever a player drinks something, including fired by items, water, cauldron or rain.**
 

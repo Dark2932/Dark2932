@@ -2,4 +2,7 @@
 
 * [Home](README.md)
 * [🔧 SimpleTweaker](simpletweaker/README.md)
-  * [IPlayer Expansion](simpletweaker/iplayer-expansion.md)
+  * [SimpleDifficulty Support](simpletweaker/simpledifficulty-support/README.md)
+    * [IPlayer Expansion](simpletweaker/simpledifficulty-support/iplayer-expansion.md)
+    * [IWorld Expansion](simpletweaker/simpledifficulty-support/iworld-expansion.md)
+    * [ThirstUtil](simpletweaker/simpledifficulty-support/thirstutil.md)

@@ -6,7 +6,7 @@ It has been packaged in `mods.simpletweaker.util.ThirstUtil`.
 
 You can call these by `ThirstUtil.method(parameters)`.
 
-#### takeDrink(_<mark style="color:orange;">IPlayer player</mark>, <mark style="color:orange;">int thirst</mark>, <mark style="color:orange;">float saturation</mark>, <mark style="color:yellow;">@Optional</mark> <mark style="color:orange;">bool hasSound</mark>_)
+#### <mark style="color:green;">void</mark> takeDrink(_<mark style="color:orange;">IPlayer player</mark>, <mark style="color:orange;">int thirst</mark>, <mark style="color:orange;">float saturation</mark>, <mark style="color:yellow;">@Optional</mark> <mark style="color:orange;">bool hasSound</mark>_)
 
 > To handle player's drink values.
 
@@ -15,7 +15,7 @@ You can call these by `ThirstUtil.method(parameters)`.
 * saturation _-> thirst saturation_
 * <mark style="color:yellow;">hasSound</mark> _-> whether to play the sound of drinking (optional, default is false)_
 
-#### takeDrinkWithThirsty(_<mark style="color:orange;">IPlayer player</mark>, <mark style="color:orange;">int thirst</mark>, <mark style="color:orange;">float saturation</mark>, <mark style="color:orange;">float thirstyChance</mark>, <mark style="color:orange;">int thirstyDuration</mark>, <mark style="color:yellow;">@Optional</mark>_ _<mark style="color:orange;">bool hasSound</mark>_)
+#### <mark style="color:green;">void</mark> takeDrinkWithThirsty(_<mark style="color:orange;">IPlayer player</mark>, <mark style="color:orange;">int thirst</mark>, <mark style="color:orange;">float saturation</mark>, <mark style="color:orange;">float thirstyChance</mark>, <mark style="color:orange;">int thirstyDuration</mark>, <mark style="color:yellow;">@Optional</mark>_ _<mark style="color:orange;">bool hasSound</mark>_)
 
 > To handle player's drink values and give a Thirsty potion effect.
 
@@ -26,7 +26,7 @@ You can call these by `ThirstUtil.method(parameters)`.
 * thirstyDuration -> _duration of Thirsty potion effect_
 * <mark style="color:yellow;">hasSound</mark> _-> whether to play the sound of drinking (optional, default is <mark style="color:red;">false</mark>)_
 
-#### takeDrinkWithParasites(_<mark style="color:orange;">IPlayer player</mark>, <mark style="color:orange;">int thirst</mark>, <mark style="color:orange;">float saturation</mark>, <mark style="color:yellow;">@Optional</mark>_ _<mark style="color:orange;">bool hasSound</mark>, <mark style="color:yellow;">@Optional</mark>_ _<mark style="color:orange;">float parasitesChance</mark>, <mark style="color:yellow;">@Optional</mark>_ _<mark style="color:orange;">int parasitesDuration</mark>, <mark style="color:yellow;">@Optional</mark>_ _<mark style="color:orange;">bool useConfigParasites</mark>_)
+#### <mark style="color:green;">void</mark> takeDrinkWithParasites(_<mark style="color:orange;">IPlayer player</mark>, <mark style="color:orange;">int thirst</mark>, <mark style="color:orange;">float saturation</mark>, <mark style="color:yellow;">@Optional</mark>_ _<mark style="color:orange;">bool hasSound</mark>, <mark style="color:yellow;">@Optional</mark>_ _<mark style="color:orange;">float parasitesChance</mark>, <mark style="color:yellow;">@Optional</mark>_ _<mark style="color:orange;">int parasitesDuration</mark>, <mark style="color:yellow;">@Optional</mark>_ _<mark style="color:orange;">bool useConfigParasites</mark>_)
 
 > To handle player's drink values and give a Parasites potion effect.
 

@@ -1,7 +1,3 @@
----
-description: Since SimpleTweaker 1.3
----
-
 # 🔧 SimpleTweaker
 
 Expansion mod of CraftTweaker.

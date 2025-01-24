@@ -10,10 +10,6 @@
 
 - Minecraft player, tweaker and modder. 🎈
 
-### Occupation:
-
-<a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80" style="max-width: 100%;"> </a> <a href="https://www.curseforge.com/minecraft/mc-mods/crafttweaker"> <img src="https://i.blamejared.com/crafttweaker.svg" alt="crt" width="80" height="80" style="max-width: 100%;"> </a>
-
 ### Stats:
 
 ![Dark2932's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark2932&show_icons=true&theme=highcontrast)

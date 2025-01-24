@@ -2,7 +2,7 @@
 
 ### Profile:
 
-- Chinese boy, 16 years old. 👦
+- Chinese boy, 17 years old. 👦
 
 - You can just call me 'dark'. 😃
 

@@ -2,11 +2,11 @@
 
 ### Profile:
 
-- Chinese boy, 17 years old. 👦
+- Chinese boy, 18 years old. 👦
 
 - You can just call me 'dark'. 😃
 
-- Student of [Henan Zhumadian Senior High School](http://www.zmdgjzx.com/) 🪁
+- Student of [Nanjing Xiaozhuang University](https://www.njxzc.edu.cn/). 🪁
 
 - Minecraft player, tweaker and modder. 🎈
 

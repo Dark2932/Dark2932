@@ -6,7 +6,7 @@
 
 - You can just call me 'dark'. 😃
 
-- Student of [Nanjing Xiaozhuang University](https://www.njxzc.edu.cn/). 🪁
+- Student of [NanJing XiaoZhuang University](https://www.njxzc.edu.cn/). 🪁
 
 - Minecraft player, tweaker and modder. 🎈
 

@@ -9,6 +9,8 @@
 - Student of [NanJing XiaoZhuang University](https://www.njxzc.edu.cn/). 🪁
 
 - Minecraft player, tweaker and modder. 🎈
+  
+- Mainly learning Java☕, C🕹️ and Python🐍 (Also using JavaScript to tweak mc by KubeJS) 
 
 ### Stats:
 

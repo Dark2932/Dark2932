@@ -14,6 +14,5 @@
 
 ### Stats:
 
-![Dark2932's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark2932&show_icons=true&theme=highcontrast)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark2932&hide=html,vbscript&langs_count=8&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Dark2932's GitHub Statistics](https://raw.githubusercontent.com/Dark2932/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Dark2932/github-stats/master/generated/languages.svg#gh-dark-mode-only)

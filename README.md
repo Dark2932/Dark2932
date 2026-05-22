@@ -29,6 +29,15 @@ Also, I'm majoring in **Automation**, so I'm pretty into electronics as well.
 
 ---
 
+### 📊 GitHub Stats
+
+![](https://github.com/Dark2932/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/Dark2932/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/Dark2932/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/Dark2932/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+
+---
+
 ### 🔗 Connect with Me
 
 | Platform    | Link |
@@ -41,12 +50,3 @@ Also, I'm majoring in **Automation**, so I'm pretty into electronics as well.
 | **MCZWLT**   | [Click to visit](https://www.mczwlt.net/space/u/679cbc79aef7584b874ff668) |
 | **CurseForge** | [Click to visit](https://www.curseforge.com/members/dark2932/projects) |
 | **Modrinth** | [Click to visit](https://modrinth.com/user/Dark2932) |
-
----
-
-### 📊 GitHub Stats
-
-![](https://github.com/Dark2932/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/Dark2932/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-![](https://github.com/Dark2932/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/Dark2932/github-stats/blob/generated/languages.svg#gh-light-mode-only)

@@ -14,5 +14,7 @@
 
 ### Stats:
 
-![Dark2932's GitHub Statistics](https://raw.githubusercontent.com/Dark2932/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Dark2932/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/Dark2932/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/Dark2932/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/Dark2932/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/Dark2932/github-stats/blob/generated/languages.svg#gh-light-mode-only)
